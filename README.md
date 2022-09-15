@@ -1,0 +1,2 @@
+# AutoML
+A user-friendly AutoML app for beginners with little to no amount of coding knowledge, can utilize the power of AI to any data they have. Using a simple UI design and an accessible webpage, anyone can upload any dataset and perform the various stages of building a machine learning model such as cleaning, pre-processing, feature selection, training and testing the models using simple button clicks
