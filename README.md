@@ -17,6 +17,15 @@ The app.py implements the logic of using multiple page streamlit. And the code f
         
 Working of the App:
 
+First the user is greeted with an Introduction page and a menu selection option.
+
+
+Classification Task Video Demo:
+
+
+Regression Task Video Demo:
+
+
 
  
  
