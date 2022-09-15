@@ -32,12 +32,12 @@ First the user is greeted with an Introduction page and a menu selection option.
 
 
 ## Classification Task Video Demo:
-![clf](https://github.com/Dharineesh-Karthikeyan/AutoML/blob/main/Working%20Demo/clf%20.mp4)
+![clf](https://github.com/Dharineesh-Karthikeyan/AutoML/blob/main/Working%20Demo/clf.mp4)
 
 
 
 ## Regression Task Video Demo:
-![Reg](https://github.com/Dharineesh-Karthikeyan/AutoML/blob/main/Working%20Demo/reg%20.mp4)
+![Reg](https://github.com/Dharineesh-Karthikeyan/AutoML/blob/main/Working%20Demo/reg.mp4)
 
 ---
  
